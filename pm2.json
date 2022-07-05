@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "exec_mode": "cluster",
+      "instances": 1,
+      "script": "./index.js",
+      "name": "Sample NodeJS Express App",
+      "interpreter": "node"
+    }
+  ]
+}
